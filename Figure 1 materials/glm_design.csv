@@ -1,0 +1,17 @@
+﻿Sample,Genotype,Replicate
+N2Starved_R2,N2,2
+N2Starved_R3,N2,3
+N2Starved_R5,N2,5
+N2Starved_R6,N2,6
+Daf2_R2,daf2,2
+Daf2_R3,daf2,3
+Daf2_R5,daf2,5
+Daf2_R6,daf2,6
+Daf2_daf16_R2,double,2
+Daf2_daf16_R3,double,3
+Daf2_daf16_R5,double,5
+Daf2_daf16_R6,double,6
+Daf16_R2,daf16,2
+Daf16_R3,daf16,3
+Daf16_R5,daf16,5
+Daf16_R6,daf16,6
